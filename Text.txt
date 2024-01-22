@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Growz Tattoos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            margin: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Growz Tattoos</h1>
+    <p>Tattoo Artist specializing in Black & Grey, Lettering, and Blackwork based in Erfurt.</p>
+    <p>Check out my work on <a href="https://www.instagram.com/growztattoos?igsh=c3Y4YXgyNHo2M2Yy&utm_source=qr" target="_blank">Instagram</a>.</p>
+</body>
+</html>
